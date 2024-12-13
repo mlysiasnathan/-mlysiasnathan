@@ -42,11 +42,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2Fczf56wunsqu2jkzx9yqi.gif"  />
+<br clear="both">
 
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/lysias-nathan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -59,7 +57,13 @@
   <a href="https://t.me/+243976742676" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </a>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlysiasnathan&show_icons=true&locale=en&layout=compact" alt="mlysiasnathan" /></p>
 </div>
+
+###
+
+<br clear="both">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlysiasnathan&show_icons=true&locale=en&layout=compact" alt="mlysiasnathan" /></p>
+
+<img align="right" height="150" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2Fczf56wunsqu2jkzx9yqi.gif"  />
 
 ###
