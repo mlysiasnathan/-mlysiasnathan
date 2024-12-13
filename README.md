@@ -56,10 +56,10 @@
   <a href="mailto:mlysiasnathan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlysiasnathan&show_icons=true&locale=en&layout=compact" alt="mlysiasnathan" /></p>
   <a href="https://t.me/+243976742676" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </a>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlysiasnathan&show_icons=true&locale=en&layout=compact" alt="mlysiasnathan" /></p>
 </div>
 
 ###
