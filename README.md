@@ -42,7 +42,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif"  />
+<img align="right" height="150" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2Fczf56wunsqu2jkzx9yqi.gif"  />
 
 ###
 
@@ -56,6 +56,7 @@
   <a href="mailto:mlysiasnathan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlysiasnathan&show_icons=true&locale=en&layout=compact" alt="mlysiasnathan" /></p>
   <a href="https://t.me/+243976742676" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </a>
